@@ -1,0 +1,38 @@
+#container1{
+    display: grid;
+    place-items: center;
+}
+
+#container2{
+    display: none;
+    place-items: center;
+}
+
+#container3{
+    display: none;
+    place-items: center;
+}
+
+#container4{
+    display: none;
+    place-items: center;
+}
+
+#container5{
+    display: none;
+    place-items: center;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    width: 8%;
+    border: none;
+    height: 3em;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+button:hover{
+    color: gray;
+}
